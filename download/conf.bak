@@ -1,0 +1,10 @@
+[
+    {
+        "local":"Builds\\NewK.bin",
+        "serve":"http://shunshunlili.net/download/UpdateFile/20210523/NewK.bin"
+    },
+    {
+        "local":"Server.exe",
+        "serve":"http://shunshunlili.net/download/UpdateFile/20210523/Server.exe"
+    }
+]
